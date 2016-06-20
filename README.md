@@ -1,4 +1,5 @@
 # PX4中文维基
+gitbook地址：https://www.gitbook.com/book/fantasyjxf/px4-wiki/details
 
 **敬启者：**
 
