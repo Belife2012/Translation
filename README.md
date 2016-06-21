@@ -1,5 +1,9 @@
 # PX4中文维基
+<<<<<<< HEAD
 [点击查看PX4中文维基gitbook](https://www.gitbook.com/book/fantasyjxf/px4-wiki/details)
+=======
+gitbook地址：https://www.gitbook.com/book/fantasyjxf/px4-wiki/details
+>>>>>>> 607ac48a55ed160a6869d7b8fc6a4a84f769e3c5
 
 **敬启者：**
 
